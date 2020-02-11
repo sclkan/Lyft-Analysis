@@ -12,7 +12,7 @@ In this investigation, we focused on Lyft’s bike-sharing business by analyzing
 
 Overall, peak hours are from 8:00 - 9:00 and 17:00-18:00 on weekdays. We can see that usage drops significantly after midnight and weekend traffic is mundane in comparison.  The relationship is linear between duration and distance after both variables undergo the logarithmic transformation.  This indicates that a percent increase in duration affects the percent increase in distance.
 
-
+We also learned that an average bike ride takes about 10 - 20 minutes and 1.2 - 1.8 kilometers with Friday evening and Saturday afternoon sessions having the longest duration.  One of the most surprising discovery is that casual users take farther and longer trips than Bay Wheels members on average.
 
 ## Source
 [Lyft's data hosted on AWS](https://s3.amazonaws.com/baywheels-data/index.html)
