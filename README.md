@@ -1,11 +1,12 @@
-# Analysis on Lyft's Bay Wheels Bike Sharing Business
+# Lyft's Bay Wheels Customer Analysis
 
 This dataset originally consisted of more than 4.7 million bike trips and spanned over a 2-year time frame. Main attributes included distance, duration, time of usage (day of week, time period, hour), user type (subscriber/customer) and Bike Share for All* enrollments. 500,000 data points were removed from this analysis due to missing or inaccurate information.
 
 *The Bike Share for All program is offered to Bay Area residents on a limited income.
 ## Results
-+ [lyft_baywheels_analysis.ipynb](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_analysis.ipynb) (Full Code)
-+ [Summary Report](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_explanatory_report.ipynb)
++ Full code: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_analysis.ipynb)
++ Summary report: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_explanatory_report.ipynb)
++ Slides created with Python: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_explanatory_report.slides.html) (please download to view)
 
 ## Summary of Findings
 In this investigation, we focused on Lyft’s bike-sharing business by analyzing the usage frequency, distance, and duration. We also examined how factors such as the time of usage, user type and Bike Share for All enrollment could affect the aforementioned variable. 
