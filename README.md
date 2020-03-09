@@ -11,7 +11,7 @@ This dataset consisted of more than 4.7 million bike trips in the Bay Area and s
 + Summary report: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_explanatory_report.ipynb)
 + Slides created with Python: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_explanatory_report.slides.html) (please download to view)
 
-## Summary of Findings
+## Key Insights
 
 Overall, the peak hours were from 8:00 - 9:00 and 17:00-18:00 on weekdays. We saw that usage dropped significantly after midnight and weekend traffic is mundane in comparison.  The relationship is linear between duration and distance after both variables underwent the logarithmic transformation, meaning that a percent increase in duration would affect the percent increase in distance.
 
