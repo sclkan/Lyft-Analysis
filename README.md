@@ -4,7 +4,7 @@ Bay Wheels is a bike-sharing service in the San Francisco Bay Area owned by Lyft
 
 This dataset consists of more than 4.7 million bike rides in the Bay Area and spans over a 2-year time frame.  Main attributes include distance, duration, time of usage (day of the week, time period, hour), user type (subscriber/customer), and *Bike Share for All* enrollment.   During the clean-up, 500,000 entries are removed from this analysis due to missing or incomplete information.
 
-*The Bike Share for All program* is offered to Bay Area residents on a limited income.
+The *Bike Share for All program* is offered to Bay Area residents on a limited income.
 ## Results
 
 + Full code: [here](https://github.com/sclkan/Lyft-Analysis/blob/master/lyft_baywheels_analysis.ipynb)
