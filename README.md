@@ -1,6 +1,6 @@
 # Lyft's Bay Wheels Customer Analysis
 
-Bay Wheels is a bike-sharing service in the San Francisco Bay Area owned by Lyft.  Here, we focus on the behavior of its customers by analyzing their usage frequency, distance traveled, and trip duration.  I also examine how factors such as the time of usage, user type, and *Bike Share for All enrollment* can affect the aforementioned variables. 
+Bay Wheels is a bike-sharing service in the San Francisco Bay Area owned by Lyft.  Here, we focus on the behavior of its customers by analyzing their usage frequency, distance traveled, and trip duration.  I also examine how factors such as the time of usage, user type, and *Bike Share for All* enrollment can affect the aforementioned variables. 
 
 This dataset consists of more than 4.7 million bike rides in the Bay Area and spans over a 2-year time frame.  Main attributes include distance, duration, time of usage (day of the week, time period, hour), user type (subscriber/customer), and *Bike Share for All* enrollment.   During the clean-up, 500,000 entries are removed from this analysis due to missing or incomplete information.
 
